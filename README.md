@@ -2,7 +2,10 @@
 ❗
 *I'm not a computer scientist or java programmer. 
 I studied what I needed to create this project, and it works. 
-Over time I'll optimise the code.*
+Over time I'll optimise the code.*  
+
+❗
+*I created it to help my local team.*
 
 Designed to help with emergency management.  
 The file includes a check list of things to do and an events log so the operators can use this single file to track everything.  
